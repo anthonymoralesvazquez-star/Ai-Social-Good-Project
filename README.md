@@ -1,2 +1,9 @@
-# Ai-Social-Good-Project
-FUND MGMT INFO SYS PROJECT
+## Problem
+
+## AI Capability
+
+## Workflow
+
+## Failure Case
+
+## Oversight and Tradeoff
